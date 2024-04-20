@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/CoffeeClubDAO/static/css/main.4128d00f.css",
+    "main.js": "/CoffeeClubDAO/static/js/main.71ae83d3.js",
+    "index.html": "/CoffeeClubDAO/index.html",
+    "main.4128d00f.css.map": "/CoffeeClubDAO/static/css/main.4128d00f.css.map",
+    "main.71ae83d3.js.map": "/CoffeeClubDAO/static/js/main.71ae83d3.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.4128d00f.css",
+    "static/js/main.71ae83d3.js"
+  ]
+}
