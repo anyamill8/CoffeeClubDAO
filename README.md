@@ -13,4 +13,10 @@ While the Coffee Club DAO uses similar principles, it primarily focuses on commu
 
 Learn more about how to use the Coffee Club DAO by visiting its "Read the Docs" page.
 
+## Example Use
+We image the use of the Coffee Club DAO to be the following:
+1. When you purchase a coffee at the Coffee Club, a Coffee Club employee will use the "Buy Coffee" button to implement the transaction (using ETH). For the sake of example, the "Buy Coffee" button is avaliable to the user on this website so they can simulate its use.
+2. Once you have reached 10 coffee purchases, a "Claim NFT" button will appear in the right hand corner. Select this button to get your Coffee Friend NFT.
+3. Now that you have a Coffee Friend NFT, you can contribute and make decisions within the DAO. Input the number of Coffee Friends you would like to contribute and hit the "contribute" button. Voting power will be proportional to the number of Coffee Friend NFTs you have contributed.
+4. The ability to create proposals, as well as view and vote on proposals, is now open to you as a DAO stakeholder. Enjoy contributing to the Coffee Club community!
 
