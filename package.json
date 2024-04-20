@@ -2,9 +2,9 @@
   "name": "DAO",
   "private": true,
   "version": "0.0.0",
-  "homepage": "https://anyamill8.github.io/CoffeeClubDAO",
+  "homepage": "https://anyamill8.github.io/",
   "scripts": {
-    "predeploy": "npm run build",
+    "predeploy": "yarn run build",
     "deploy": "gh-pages -d build",
     "start": "react-app-rewired start",
     "build": "react-app-rewired build",
