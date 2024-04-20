@@ -22,7 +22,7 @@ const App = () => {
       <Header />
       {loaded ? (
               <Routes>
-              <Route path="/" element={<Home />}/>
+              <Route path="/CoffeeClubDAO" element={<Home />}/>
               <Route path="/proposal/:id" element={<Proposal />}/>
               <Route path="/docs/:id" element={<Docs />}/>
             </Routes>
