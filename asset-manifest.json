@@ -1,13 +1,13 @@
 {
   "files": {
     "main.css": "/CoffeeClubDAO/static/css/main.4128d00f.css",
-    "main.js": "/CoffeeClubDAO/static/js/main.afb2e3db.js",
+    "main.js": "/CoffeeClubDAO/static/js/main.5d838acd.js",
     "index.html": "/CoffeeClubDAO/index.html",
     "main.4128d00f.css.map": "/CoffeeClubDAO/static/css/main.4128d00f.css.map",
-    "main.afb2e3db.js.map": "/CoffeeClubDAO/static/js/main.afb2e3db.js.map"
+    "main.5d838acd.js.map": "/CoffeeClubDAO/static/js/main.5d838acd.js.map"
   },
   "entrypoints": [
     "static/css/main.4128d00f.css",
-    "static/js/main.afb2e3db.js"
+    "static/js/main.5d838acd.js"
   ]
 }
