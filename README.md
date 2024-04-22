@@ -20,3 +20,6 @@ We image the use of the Coffee Club DAO to be the following:
 3. Now that you have a Coffee Friend NFT, you can contribute and make decisions within the DAO. Input the number of Coffee Friends you would like to contribute and hit the "contribute" button. Voting power will be proportional to the number of Coffee Friend NFTs you have contributed.
 4. The ability to create proposals, as well as view and vote on proposals, is now open to you as a DAO stakeholder. Enjoy contributing to the Coffee Club community!
 
+### Sources
+The front end code in this website, as well as the skeleton of the DAO contract, was guided by this video (https://www.youtube.com/watch?v=Gm442Ihv1GU) by @Daltonic
+
