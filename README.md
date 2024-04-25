@@ -20,6 +20,9 @@ We image the use of the Coffee Club DAO to be the following:
 3. Now that you have a Coffee Friend NFT, you can contribute and make decisions within the DAO. Input the number of Coffee Friends you would like to contribute and hit the "contribute" button. Voting power will be proportional to the number of Coffee Friend NFTs you have contributed.
 4. The ability to create proposals, as well as view and vote on proposals, is now open to you as a DAO stakeholder. Enjoy contributing to the Coffee Club community!
 
+## Code
+The solidity code that governs our smart contracts can be found in /src/contracts. The "DominionDAO" contract handles the DAO-related actions (such as contributing, proposing, and voting) while the "CoffeeFriend" contract handles the count of Coffee Club points and the minting and transfer of Coffee Friend NFTs. To see how these contracts were integrated into our backend, view the Blockchain.services.jsx file in the src directory where we define many functions to assist in contributing, buying coffee, claiming NFTs, voting, and proposing. To view front end code, visit /src/components. 
+
 ### Sources
-The front end code in this website, as well as the skeleton of the DAO contract, was guided by this video (https://www.youtube.com/watch?v=Gm442Ihv1GU) by @Daltonic
+The front end code in this website, as well as the skeleton of the DAO contract, was guided by this video (https://www.youtube.com/watch?v=Gm442Ihv1GU) by @DappMentors
 
